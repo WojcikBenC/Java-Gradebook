@@ -1,0 +1,1 @@
+A gradebook where students, assignments, and exams can be entered. The commands are: q: quit, addS <name>: add student, addA: add assignment, addE: add exam, grade <name>: grades all assignments and exams for student, gradeA <number>: grades assignment # for all students, gradeE <number>: grades exam # for all students, display: displays all students and grades.
